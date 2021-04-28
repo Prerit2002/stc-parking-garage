@@ -5,6 +5,7 @@
     background-color: antiquewhite;
     text-align: center;
     font-family: 'Roboto', sans-serif;
+    border-radius:3%;
        
 }
 
@@ -34,4 +35,10 @@ button {
     border: 0;
     padding: 20px;
     font-size: 0.5rem;
+}
+
+body {
+
+    min-height:750px;
+    background-image: linear-gradient(white,rgb(185, 185, 255));
 }
